@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch15-P2-ExternalAssemblyReflector", "Ch15-P2-ExternalAssemblyReflector\Ch15-P2-ExternalAssemblyReflector.csproj", "{59C27E02-996E-463B-9397-44B030928A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59C27E02-996E-463B-9397-44B030928A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C27E02-996E-463B-9397-44B030928A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C27E02-996E-463B-9397-44B030928A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C27E02-996E-463B-9397-44B030928A98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3DB167E-CB6C-4B9B-A80D-B6CB27B3AF13}
+	EndGlobalSection
+EndGlobal
